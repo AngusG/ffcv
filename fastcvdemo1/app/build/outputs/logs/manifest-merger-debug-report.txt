@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:2:1-139:12
+	package
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:6:5-71
+	android:targetSdkVersion
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:6:41-69
+		INJECTED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:6:15-40
+		INJECTED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:10:5-138:19
+	android:label
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:12:9-41
+	android:debuggable
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:13:9-34
+	android:icon
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:11:9-45
+activity#com.qualcomm.fastcvdemo.apis.SplashScreen
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:screenOrientation
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:17:9-46
+	android:theme
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:18:9-56
+	android:name
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:16:9-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.qualcomm.fastcvdemo.apis.FastCVMainMenu
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:25:9-28:20
+	android:label
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:27:9-41
+	android:name
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:26:9-67
+activity#com.qualcomm.fastcvdemo.apis.About
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:30:9-33:20
+	android:label
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:32:9-38
+	android:name
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:31:9-58
+activity#com.qualcomm.fastcvdemo.apis.imageProcessing.Filter
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:35:9-43:20
+	android:screenOrientation
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:37:13-50
+	android:label
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:38:13-52
+	android:name
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:36:13-79
+intent-filter#android.intent.action.MAIN+android.intent.category.SAMPLE_CODE
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:39:13-42:29
+category#android.intent.category.SAMPLE_CODE
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:41:17-80
+	android:name
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:41:27-77
+activity#com.qualcomm.fastcvdemo.apis.imageProcessing.FilterCorr
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:45:9-53:20
+	android:screenOrientation
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:47:13-50
+	android:label
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:46:13-83
+activity#com.qualcomm.fastcvdemo.apis.imageProcessing.ImgDiff
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:55:9-63:20
+	android:screenOrientation
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:57:13-50
+	android:label
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:58:13-53
+	android:name
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:56:13-80
+activity#com.qualcomm.fastcvdemo.apis.imageProcessing.ImageGradient
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:65:9-73:20
+	android:screenOrientation
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:67:13-50
+	android:label
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:68:13-59
+	android:name
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:66:13-86
+activity#com.qualcomm.fastcvdemo.apis.featureDetection.Corner
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:75:9-83:20
+	android:screenOrientation
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:77:13-50
+	android:label
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:78:13-52
+	android:name
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:76:13-80
+activity#com.qualcomm.fastcvdemo.apis.featureDetection.CornerPrefs
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:84:9-87:20
+	android:label
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:86:9-41
+	android:name
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:85:9-81
+activity#com.qualcomm.fastcvdemo.apis.imageTransformation.Scale
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:89:9-97:20
+	android:screenOrientation
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:91:13-50
+	android:label
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:92:13-51
+	android:name
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:90:13-82
+activity#com.qualcomm.fastcvdemo.apis.imageTransformation.Warp
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:99:9-107:20
+	android:screenOrientation
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:101:13-50
+	android:label
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:102:13-50
+	android:name
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:100:13-81
+activity#com.qualcomm.fastcvdemo.apis.imageTransformation.Affine
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:109:9-117:20
+	android:screenOrientation
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:111:13-50
+	android:label
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:112:13-52
+	android:name
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:110:13-83
+activity#com.qualcomm.fastcvdemo.apis.imageTransformation.Rotate
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:119:9-127:20
+	android:screenOrientation
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:121:13-50
+	android:label
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:122:13-52
+	android:name
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:120:13-83
+activity#com.qualcomm.fastcvdemo.apis.imageTransformation.ScaleDownMN
+ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:128:9-136:20
+	android:screenOrientation
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:130:13-50
+	android:label
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:131:13-57
+	android:name
+		ADDED from C:\Users\Angus\Documents\Android_workspace\fastcvdemo1\app\src\main\AndroidManifest.xml:129:13-88

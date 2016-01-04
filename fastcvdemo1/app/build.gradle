@@ -1,0 +1,54 @@
+apply plugin: 'com.android.application'
+//apply plugin: 'com.android.library'
+//import org.apache.tools.ant.taskdefs.condition.Os
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.qualcomm.fastcvdemo"
+        minSdkVersion 9
+        targetSdkVersion 9
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDir 'src/main/libs'
+            jni.srcDirs = []    //disable automatic ndk-build call
+        }
+    }
+}
+
+/* Fastest way for now is to compile separately with ndk-build from cmd.exe */
+
+/*
+tasks.withType(JavaCompile) {
+    compileTask -> compileTask.dependsOn ndkBuild
+}
+
+task ndkBuild(type: Exec, description: 'Compile JNI source via NDK') {
+    println('executing ndkBuild')
+
+    //Need plugin com.android.library, but this causes other errors.
+    //def ndkBuildingDir = project.plugins.findPlugin('com.android.library').sdkHandler.getNdkFolder().absolutePath
+
+    //Hardcoding for now
+    def ndkBuildingDir = 'C:/Development/Android/android-ndk-r10e'
+    def ndkBuildPath = ndkBuildingDir
+
+    if (Os.isFamily(Os.FAMILY_WINDOWS)) {
+        ndkBuildPath = ndkBuildingDir + '/ndk-build.cmd'
+    } else {
+        ndkBuildPath = ndkBuildingDir + '/ndk-build'
+    }
+    commandLine ndkBuildPath, '-j8', '-C', file('src/main').absolutePath
+}
+*/

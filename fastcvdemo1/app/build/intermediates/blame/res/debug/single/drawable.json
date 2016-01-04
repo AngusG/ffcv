@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashscreen.jpg",
+        "source": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\src\\main\\res\\drawable\\splashscreen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diff_reset_button.xml",
+        "source": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\src\\main\\res\\drawable\\diff_reset_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_stop_button.xml",
+        "source": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\src\\main\\res\\drawable\\start_stop_button.xml"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\imagegradientmenu.xml",
+        "source": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\src\\main\\res\\menu\\imagegradientmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splashmenu.xml",
+        "source": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\src\\main\\res\\menu\\splashmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\filtermenu.xml",
+        "source": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\src\\main\\res\\menu\\filtermenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\rotatemenu.xml",
+        "source": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\src\\main\\res\\menu\\rotatemenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\filtercorrmenu.xml",
+        "source": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\src\\main\\res\\menu\\filtercorrmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\scaledown_mn_menu.xml",
+        "source": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\src\\main\\res\\menu\\scaledown_mn_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\scalemenu.xml",
+        "source": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\src\\main\\res\\menu\\scalemenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\affinemenu.xml",
+        "source": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\src\\main\\res\\menu\\affinemenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\warpmenu.xml",
+        "source": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\src\\main\\res\\menu\\warpmenu.xml"
+    }
+]
