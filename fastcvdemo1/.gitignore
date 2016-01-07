@@ -12,8 +12,6 @@
 *.war
 *.ear
 
-
-
 bin/
 obj
 obj/local
