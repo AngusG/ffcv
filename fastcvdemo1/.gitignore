@@ -13,8 +13,6 @@ fastcvdemo1/.idea/libraries/
 *.war
 *.ear
 
-
-
 bin/
 obj
 obj/local
