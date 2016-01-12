@@ -1,7 +1,8 @@
 # IntelliJ
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/libraries/
+fastcvdemo1/.idea/workspace.xml
+fastcvdemo1/.idea/tasks.xml
+fastcvdemo1/.idea/misc.xml
+fastcvdemo1/.idea/libraries/
 *.class
 
 # Mobile Tools for Java (J2ME)
