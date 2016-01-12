@@ -1,0 +1,32 @@
+# IntelliJ
+fastcvdemo1/.idea/workspace.xml
+fastcvdemo1/.idea/tasks.xml
+fastcvdemo1/.idea/misc.xml
+fastcvdemo1/.idea/libraries/
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+
+bin/
+obj
+obj/local
+bin/classes
+bin/res
+bin/AndroidManifest.xml
+bin/dexedLibs
+bin/jarlist.cache
+
+# Gradle
+.gradle/
+build/
+local.properties
+
+fastcvdemo1/app/src/main/libs
