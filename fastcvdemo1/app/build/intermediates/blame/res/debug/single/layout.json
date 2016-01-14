@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\src\\main\\res\\layout\\main.xml"
-    },
-    {
         "merged": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cornerpref.xml",
         "source": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\src\\main\\res\\layout\\cornerpref.xml"
     },
@@ -18,6 +14,10 @@
     {
         "merged": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
         "source": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\Angus\\Documents\\Android_workspace\\fastcvdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scaledown_mn.xml",

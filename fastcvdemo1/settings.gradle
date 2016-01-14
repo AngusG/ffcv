@@ -1,1 +1,5 @@
 include ':app'
+
+//include ':libuvccamera'
+//roject(':libuvccamera').projectDir = new File(settingsDir, '../libuvccamera')
+

@@ -12,6 +12,7 @@ fastcvdemo1/.idea/libraries/
 *.jar
 *.war
 *.ear
+*.bin
 
 
 
@@ -24,8 +25,10 @@ bin/AndroidManifest.xml
 bin/dexedLibs
 bin/jarlist.cache
 
+fastcvdemo1/app/build/
+
 # Gradle
-.gradle/
+fastcvdemo1/.gradle/*
 build/
 local.properties
 

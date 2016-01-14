@@ -1,7 +1,6 @@
 apply plugin: 'com.android.application'
 //apply plugin: 'com.android.library'
 //import org.apache.tools.ant.taskdefs.condition.Os
-
 android {
     compileSdkVersion 21
     buildToolsVersion "23.0.2"
@@ -26,9 +25,10 @@ android {
         }
     }
 }
-
+/*dependencies {
+    compile project(':libuvccamera')
+}*/
 /* Fastest way for now is to compile separately with ndk-build from cmd.exe */
-
 /*
 tasks.withType(JavaCompile) {
     compileTask -> compileTask.dependsOn ndkBuild
@@ -52,3 +52,7 @@ task ndkBuild(type: Exec, description: 'Compile JNI source via NDK') {
     commandLine ndkBuildPath, '-j8', '-C', file('src/main').absolutePath
 }
 */
+
+dependencies {
+    compile files('src/main/libs/classes.jar')
+}
